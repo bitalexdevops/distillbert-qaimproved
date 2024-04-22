@@ -18,7 +18,7 @@ body{
 .main input{
   text-align: center;
   display: block;
-  width: 320px;
+  width: 200px;
   height: 40px;
   padding: 10px;
   background: rgba(0, 0, 0, 0.1);
@@ -47,7 +47,7 @@ body{
 }
 
 .main #submit-btn{
-  background: rgb(41, 204, 158);
+  background: rgb(40, 202, 151);
   border: none;
   width: 340px;
   height: 40px;
